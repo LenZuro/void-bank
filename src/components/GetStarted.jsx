@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import styles from "@/app/style";
 import { arrowUp } from "@/app/assets";
 import Image from "next/image";

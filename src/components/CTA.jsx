@@ -1,11 +1,7 @@
-'use client'
-
-import React from "react";
+"use client";
 
 const CTA = () => {
-    return (
-        <div>CTA</div>
-    )
-}
+  return <div>CTA</div>;
+};
 
-export default CTA
+export default CTA;

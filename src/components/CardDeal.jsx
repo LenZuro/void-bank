@@ -19,7 +19,7 @@ const CardDeal = () => (
       <Button styles="mt-10" />
     </div>
     <div className={layout.sectionImg}>
-      <Image src={card} loading="lazy" />
+      <Image src={card} loading="lazy" alt="Card_deal" />
     </div>
   </section>
 );

@@ -34,7 +34,7 @@ const Hero = () => (
         fees.
       </p>
     </div>
-    <div className={``}>
+    <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
       <Image
         src={robot}
         alt="billing"
